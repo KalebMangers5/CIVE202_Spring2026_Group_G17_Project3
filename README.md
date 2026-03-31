@@ -19,7 +19,7 @@ The goal is to visualize travel behavior, analyze driving patterns, and simulate
 
 ## How to Run
 1. Open the Jupyter Notebook:
-   `Project3_Visualization.ipynb`
+   ` CIVE202_Spring2026_Group_G17_Project3.ipynb`
 2. Run all cells in order
 3. Ensure the CSV files are located in the same folder or correct path
 
